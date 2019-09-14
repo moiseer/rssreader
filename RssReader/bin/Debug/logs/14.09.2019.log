@@ -1,0 +1,38 @@
+14.09.2019 12:43:52 | Info | RssReader.cs Run | Input: list filter habr
+14.09.2019 12:43:53 | Info | RssReader.cs List | Нет скачанных RSS лент
+14.09.2019 12:44:03 | Info | RssReader.cs Run | Input: pull
+14.09.2019 12:44:03 | Info | RssReader.cs Pull | Скачивание RSS лент...
+14.09.2019 12:44:17 | Info | RssReader.cs Run | Input: list
+14.09.2019 12:44:17 | Info | RssReader.cs List | Нет скачанных RSS лент
+14.09.2019 12:44:41 | Info | RssReader.cs Run | Input: add https://rezka.ag/rss.xml
+14.09.2019 12:44:41 | Info | RssReader.cs AddChannels | Добавлена RSS лента https://rezka.ag/rss.xml
+14.09.2019 12:44:41 | Info | RssReader.cs SaveSettings | Файл настроек успешно сохранен
+14.09.2019 12:44:48 | Info | RssReader.cs Run | Input: pull
+14.09.2019 12:44:48 | Info | RssReader.cs Pull | Скачивание RSS лент...
+14.09.2019 12:44:49 | Error | RssReader.cs LoadChannel | Не удалось загрузить канал https://rezka.ag/rss.xml! [Базовое соединение закрыто: Непредвиденная ошибка при передаче.]
+14.09.2019 12:44:49 | Warning | RssReader.cs Pull | Не удалось скачать RSS лент: 1.
+14.09.2019 12:51:22 | Info | RssReader.cs Run | Input: add https://habr.com/rss/interesting/
+14.09.2019 12:51:22 | Info | RssReader.cs AddChannels | Добавлена RSS лента https://habr.com/rss/interesting/
+14.09.2019 12:51:22 | Info | RssReader.cs SaveSettings | Файл настроек успешно сохранен
+14.09.2019 12:51:30 | Info | RssReader.cs Run | Input: pull
+14.09.2019 12:51:30 | Info | RssReader.cs Pull | Скачивание RSS лент...
+14.09.2019 12:51:31 | Error | RssReader.cs LoadChannel | Не удалось загрузить канал https://rezka.ag/rss.xml! [Базовое соединение закрыто: Непредвиденная ошибка при передаче.]
+14.09.2019 12:51:32 | Info | RssReader.cs LoadChannel | Канал https://habr.com/rss/interesting/ загружен
+14.09.2019 12:51:32 | Info | RssReader.cs Pull | Успешно скачано RSS лент: 1. 
+14.09.2019 12:51:32 | Warning | RssReader.cs Pull | Не удалось скачать RSS лент: 1.
+14.09.2019 12:51:51 | Info | RssReader.cs Run | Input: list
+14.09.2019 12:52:01 | Info | RssReader.cs Run | Input: list filter habr
+14.09.2019 12:52:19 | Info | RssReader.cs Run | Input: list filter хабр
+14.09.2019 12:52:24 | Info | RssReader.cs Run | Input: Хабр
+14.09.2019 12:52:24 | Warning | RssReader.cs UnknownCommand | Введена неизвестная команда
+14.09.2019 12:52:32 | Info | RssReader.cs Run | Input: list filter Хабр
+14.09.2019 12:54:23 | Info | RssReader.cs Run | Input: list filter Хабр
+14.09.2019 12:55:53 | Info | RssReader.cs Run | Input: list filter хабр
+14.09.2019 12:56:50 | Info | RssReader.cs Run | Input: list filter хабр
+14.09.2019 12:57:49 | Info | RssReader.cs Run | Input: list filter хабр
+14.09.2019 12:58:00 | Info | RssReader.cs Run | Input: 
+14.09.2019 12:58:00 | Warning | RssReader.cs UnknownCommand | Введена неизвестная команда
+14.09.2019 12:58:10 | Info | RssReader.cs Run | Input: help
+14.09.2019 12:58:27 | Info | RssReader.cs Run | Input: list f
+14.09.2019 12:58:27 | Warning | RssReader.cs UnknownCommand | Введена неизвестная команда
+14.09.2019 13:00:01 | Info | RssReader.cs Run | Input: list filter fg
